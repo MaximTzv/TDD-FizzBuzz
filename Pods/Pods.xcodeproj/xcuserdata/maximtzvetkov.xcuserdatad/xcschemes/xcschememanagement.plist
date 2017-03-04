@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-FizzBuzz.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FizzBuzzTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FizzBuzzUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyTimer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1865D5D67E675CA78897E1C709AF58EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>348EACF6B7F2C510A1C1FDF1AFD878DE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3D1D71612F225506E9A726D51E890C9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F0710844A75DE74FEBA010E652986F42</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
