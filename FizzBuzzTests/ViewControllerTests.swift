@@ -71,26 +71,3 @@ class ViewControllerTests: XCTestCase {
         XCTAssertEqual(newScore, 0)
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

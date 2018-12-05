@@ -63,20 +63,3 @@ class BrainTest: XCTestCase {
         XCTAssertEqual(result, .Number)
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
