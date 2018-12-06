@@ -402,7 +402,7 @@
 		};
 		F8B89FA421B9140700190031 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 8;
 			files = (
 			);
 			inputFileListPaths = (
@@ -413,7 +413,7 @@
 			);
 			outputPaths = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
+			runOnlyForDeploymentPostprocessing = 1;
 			shellPath = /bin/sh;
 			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\ncurl -X POST \"https://app.nevercode.io/api/projects/324e17b6-bc72-4bc4-a68f-b54e9a9489c7/build?token=1673e663b5befac580b682253be3ab1c&branch=master\"\n";
 		};
