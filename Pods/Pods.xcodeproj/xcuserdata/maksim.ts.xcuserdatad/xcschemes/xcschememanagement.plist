@@ -4,22 +4,22 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-FizzBuzz.xcscheme</key>
+		<key>Pods-FizzBuzz.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-FizzBuzzTests.xcscheme</key>
+		<key>Pods-FizzBuzzTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-FizzBuzzUITests.xcscheme</key>
+		<key>Pods-FizzBuzzUITests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>SwiftyTimer.xcscheme</key>
+		<key>SwiftyTimer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
