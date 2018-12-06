@@ -261,7 +261,7 @@
 				TargetAttributes = {
 					442451ED1E68550400F3500E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = WWNDK2NSW8;
+						DevelopmentTeam = 7972X8HT2J;
 						ProvisioningStyle = Automatic;
 					};
 					442452011E68550500F3500E = {
@@ -586,10 +586,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = WWNDK2NSW8;
+				DEVELOPMENT_TEAM = 7972X8HT2J;
 				INFOPLIST_FILE = FizzBuzz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jericho.FizzBuzz;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ci.FizzBuzz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -601,10 +601,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = WWNDK2NSW8;
+				DEVELOPMENT_TEAM = 7972X8HT2J;
 				INFOPLIST_FILE = FizzBuzz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jericho.FizzBuzz;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ci.FizzBuzz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
