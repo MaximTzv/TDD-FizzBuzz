@@ -61,7 +61,8 @@ class ViewController: UIViewController {
             self.timerScore! -= 1
         })
         
-        timer.start(modes: .commonModes)
+//        timer.start(modes: .commonModes)
+        timer.start(modes: .common)
     }
 
     func play(move: Move) {
